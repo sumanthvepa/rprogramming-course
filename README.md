@@ -1,1 +1,2 @@
-This is an open source/open conntent course on R programming
+An onliine interactive course on learning statistics using R
+
